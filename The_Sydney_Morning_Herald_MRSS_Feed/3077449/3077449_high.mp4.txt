@@ -1,0 +1,7 @@
+updated: Tue, 28 February 2012 02:51:01
+title: Mark Arbib\'s shock resignation
+summary: Tim Lester reports on the hastily-called news conference, Monday, where Senator Mark Arbib resigned.
+link: http://media.smh.com.au/news/national-news/mark-arbibs-shock-resignation-3077449.html
+media_content: http://mediadownload2.f2.com.au/flash/media/2012/02/27/3077449/3077449_high.mp4
+id: 3077449
+

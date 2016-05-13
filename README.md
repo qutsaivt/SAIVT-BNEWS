@@ -1,2 +1,1 @@
-# SAIVT-BNEWS
-The SAIVT Broadcast News Database
+docs/README.txt
