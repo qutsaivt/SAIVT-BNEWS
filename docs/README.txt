@@ -34,9 +34,9 @@ To attribute this database, please include the following citation:
 
 ## INSTALLATION ##
 
-Download and unzip `SAIVT-BNEWS.zip` from
-https://wiki.qut.edu.au/display/saivt/SAIVT-BNEWS or clone the
-repository:
+Download and unzip
+https://Q0102-RO:Vieyae3G@q0102.qcloud.qcif.edu.au/SAIVT-BNEWS.zip or
+clone the repository:
 
 ```git clone https://github.com/qutsaivt/SAIVT-BNEWS.git```
 
